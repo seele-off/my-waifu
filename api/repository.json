@@ -4,4 +4,10 @@
   "type":"SFW",
   "age":"16+",
   "url":"https://api.waifu.pics/sfw/waifu"
+},
+  {"img":"https://www.dictionary.com/e/wp-content/uploads/2018/03/waifu.jpg",
+  "name":"WaiFu",
+  "type":"SFW",
+  "age":"18+",
+  "url":"https://api.waifu.pics/sfw/waifu"
 } ]
